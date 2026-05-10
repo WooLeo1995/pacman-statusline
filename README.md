@@ -16,3 +16,7 @@ Claude Code statusline配置，前置需求你的终端工具支持 Nerd Font �
   }
 }
 ```
+
+## 效果展示
+<img width="1116" height="662" alt="image" src="https://github.com/user-attachments/assets/bb79f185-a43a-4b48-ba74-43c9d4596fc2" />
+
