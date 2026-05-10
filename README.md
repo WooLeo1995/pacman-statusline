@@ -1,5 +1,5 @@
 # pacman-statusline
-Claude Code statusline配置
+Claude Code statusline配置，前置需求你的终端工具支持 Nerd Font 字体 https://www.nerdfonts.com
 
 ## 使用方法
 
